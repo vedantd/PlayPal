@@ -1,5 +1,4 @@
 package com.vedantd.playpal.model;
-import com.vedantd.playpal.model.Event;
 import jakarta.persistence.*;
 
 import java.util.HashSet;

@@ -1,8 +1,6 @@
 package com.vedantd.playpal.model;
-import com.vedantd.playpal.model.Sport;
-import com.vedantd.playpal.model.User;
 import jakarta.persistence.*;
-import com.vedantd.playpal.model.Event;
+
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
